@@ -32,7 +32,7 @@ with col2:
 with col3:
     st.metric("Fonds Social", "75,000 XOF")
 
----
+st.divider()
 
 # --- MODULES SELON LES RÔLES ---
 
